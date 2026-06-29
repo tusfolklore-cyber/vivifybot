@@ -396,4 +396,4 @@ async def tiktok_live(ctx):
 
 # -------------------- START THE BOT --------------------
 keep_alive()  # starts the web server in a separate thread
-bot.run('MTUxODY5Nzc5MTYxNzExMDE2Nw.GvWDYF.xq80VkSFrq-go5APYsxavAC3aWL4iTFiB0EvyQ')
+bot.run('MTUxODY5Nzc5MTYxNzExMDE2Nw.GKdqat.Er5n_4BYk1coeA0BPiCjynSrPc4ag8OK-Q1jFk')
